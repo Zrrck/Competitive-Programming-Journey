@@ -1,6 +1,6 @@
-// Problem 2
+// https://codeforces.com/problemset/problem/1030/A
 
-// 1030A
+
 
 #include <iostream>
 

@@ -1,6 +1,5 @@
-//Problem 1
- 
 // https://codeforces.com/problemset/problem/977/A
+
 
 
 #include <iostream>
